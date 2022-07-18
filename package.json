@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/talisilva/cypressOpen#readme",
   "dependencies": {
-    "cypress": "^10.3.0"
+    "cypress": "^10.3.0",
+    "faker-br": "^0.4.1"
   }
 }
